@@ -1,2 +1,19 @@
 # AVC-Team1
 Victoria University, engineering 101 AVC project
+
+Weekly Task List:
+
+12th May
+OBJECTIVE: Complete Quadrant 1
+
+TASKS:
+Ronnie: Finalise AVC plan/ team roles. Take notes for progress report;
+Joseph: Update github (and any extra github work needed);
+Tim: Finalise design of chassis. (assist in CAD design);
+Jason: Finalise CAD design;
+Ben: Develop code for networking (if unfinished);
+Hayden: Develop code for movement in quadrant 1. (finalise sensor code if necessary);
+All: Record results and discuss.
+
+19th May
+OBJECTIVE: Complete Quadrant 2
